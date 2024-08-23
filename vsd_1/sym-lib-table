@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "VSD")(type "KiCad")(uri "C:/Users/ankit/OneDrive/Desktop/dhanvanti/pcb/libs/squadron_lib/squadron.kicad_sym")(options "")(descr ""))
+  (lib (name "OV7670")(type "KiCad")(uri "C:/Users/ankit/OneDrive/Desktop/dhanvanti/pcb/libs/ov7670/CAMERA-OV7670.kicad_sym")(options "")(descr ""))
+)
